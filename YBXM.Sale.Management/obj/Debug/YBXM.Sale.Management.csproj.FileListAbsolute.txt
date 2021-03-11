@@ -1,9 +1,0 @@
-C:\Projects\Personal\YBXM.Sale.Management\YBXM.Sale.Management\bin\Debug\YBXM.Sale.Management.exe.config
-C:\Projects\Personal\YBXM.Sale.Management\YBXM.Sale.Management\bin\Debug\YBXM.Sale.Management.exe
-C:\Projects\Personal\YBXM.Sale.Management\YBXM.Sale.Management\bin\Debug\YBXM.Sale.Management.pdb
-C:\Projects\Personal\YBXM.Sale.Management\YBXM.Sale.Management\obj\Debug\YBXM.Sale.Management.Properties.Resources.resources
-C:\Projects\Personal\YBXM.Sale.Management\YBXM.Sale.Management\obj\Debug\YBXM.Sale.Management.csproj.GenerateResource.cache
-C:\Projects\Personal\YBXM.Sale.Management\YBXM.Sale.Management\obj\Debug\YBXM.Sale.Management.csproj.CoreCompileInputs.cache
-C:\Projects\Personal\YBXM.Sale.Management\YBXM.Sale.Management\obj\Debug\YBXM.Sale.Management.exe
-C:\Projects\Personal\YBXM.Sale.Management\YBXM.Sale.Management\obj\Debug\YBXM.Sale.Management.pdb
-C:\Projects\Personal\YBXM.Sale.Management\YBXM.Sale.Management\obj\Debug\YBXM.Sale.Management.csprojAssemblyReference.cache
