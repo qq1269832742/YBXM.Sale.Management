@@ -6,3 +6,4 @@ C:\Projects\Personal\YBXM.Sale.Management\YBXM.Sale.Management\obj\Debug\YBXM.Sa
 C:\Projects\Personal\YBXM.Sale.Management\YBXM.Sale.Management\obj\Debug\YBXM.Sale.Management.csproj.CoreCompileInputs.cache
 C:\Projects\Personal\YBXM.Sale.Management\YBXM.Sale.Management\obj\Debug\YBXM.Sale.Management.exe
 C:\Projects\Personal\YBXM.Sale.Management\YBXM.Sale.Management\obj\Debug\YBXM.Sale.Management.pdb
+C:\Projects\Personal\YBXM.Sale.Management\YBXM.Sale.Management\obj\Debug\YBXM.Sale.Management.csprojAssemblyReference.cache
